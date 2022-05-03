@@ -1,26 +1,26 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_Mr_Green_Jekyll_Theme
-title: Mr. Green Jekyll Theme
+title: 아이템1.생성자 대신 정적 팩터리 메서드를 고려하라
 
 # post specific
 # if not specified, .name will be used from _data/owner.yml
 author: Mr. Green's Workshop
 # multiple category is not supported
-category: jekyll
+category: effective-java
 # multiple tag entries are possible
-tags: [jekyll, new feature]
+tags: [effective-java, new feature]
 # thumbnail image for post
 img: ":mock1.jpg"
 # disable comments on this page
 #comments_disable: true
 
 # publish date
-date: 2022-03-03 12:32:10 +0900
+date: 2022-05-04 20:06:00 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2022-03-03 12:32:10 +0900
+#meta_modify_date: 2022-05-04 20:06:00 +0900
 # check the meta_common_description in _data/lang/[language].yml
 #meta_description: ""
 
@@ -36,8 +36,6 @@ date: 2022-03-03 12:32:10 +0900
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-
-# 이펙티브자바 / 아이템1 / 생성자 대신 정적 팩터리 메서드를 고려하라
 
 # 팩터리 메서드가 생성자보다 좋은 장점 다섯가지
 
